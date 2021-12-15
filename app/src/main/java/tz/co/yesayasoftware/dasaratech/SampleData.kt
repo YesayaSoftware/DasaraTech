@@ -1,8 +1,10 @@
 package tz.co.yesayasoftware.dasaratech
 
+import tz.co.yesayasoftware.dasaratech.MainActivity.*
+
 object SampleData {
     // Sample conversation data
-    /*val conversationSample = listOf(
+    val conversationSample = listOf(
         Message(
             "Colleague",
             "Test...Test...Test..."
@@ -68,5 +70,5 @@ object SampleData {
             "Colleague",
             "Have you tried writing build.gradle with KTS?"
         ),
-    )*/
+    )
 }
